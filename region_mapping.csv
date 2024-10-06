@@ -1,0 +1,229 @@
+Region,Region_Index
+Adaigaon,0
+Agripada,1
+Airoli,2
+Ambarnath,3
+Ambernath East,4
+Ambernath West,5
+Ambivali,6
+Andheri East,7
+Andheri West,8
+Anjurdive,9
+Antop Hill,10
+Asangaon,11
+Ashok nagar,12
+Babulnath Road,13
+Badlapur,14
+Badlapur East,15
+Badlapur West,16
+Bandra,17
+Bandra East,18
+Bandra Kurla Complex,19
+Bandra West,20
+Belapur,21
+Bhandup East,22
+Bhandup West,23
+Bhayandar East,24
+Bhayandar West,25
+Bhiwandi,26
+Bhoiwada,27
+Boisar,28
+Borivali,29
+Borivali East,30
+Borivali West,31
+Byculla,32
+Chandivali,33
+Chembur,34
+Chembur East,35
+Churchgate,36
+Colaba,37
+Cuffe Parade,38
+Dadar East,39
+Dadar West,40
+Dahisar,41
+Dahisar East,42
+Dahisar West,43
+Deonar,44
+Dharavi,45
+Diva,46
+Dombivali,47
+Dombivali East,48
+Dombivli (West),49
+Dronagiri,50
+Fort,51
+GTB Nagar,52
+Gandhar Nagar,53
+Gauripada,54
+Ghansoli,55
+Ghatkopar East,56
+Ghatkopar West,57
+Ghodbunder Road,58
+Girgaon,59
+Goregaon,60
+Goregaon East,61
+Goregaon West,62
+Govandi,63
+Greater Khanda,64
+Hindu Colony,65
+Hiranandani Estates,66
+Jogeshwari East,67
+Jogeshwari West,68
+Juhu,69
+Juhu Scheme,70
+Juinagar,71
+Kalamboli,72
+Kalher,73
+Kalwa,74
+Kalyan East,75
+Kalyan West,76
+Kamathipura,77
+Kamothe,78
+Kandivali East,79
+Kandivali West,80
+Kanjurmarg,81
+Kanjurmarg East,82
+Karanjade,83
+Karjat,84
+Kasheli,85
+Kewale,86
+Khanda Colony,87
+Khar,88
+Khar West,89
+Khardi,90
+Kharghar,91
+Khatiwali,92
+Khopoli,93
+Koper Khairane,94
+Koproli,95
+Kurla,96
+Kurla East,97
+Kurla West,98
+L I C Colony,99
+Lower Parel,100
+MATUNGA WEST,101
+Mahalaxmi,102
+Mahavir Nagar,103
+Mahim,104
+Mahim West,105
+Malabar Hill,106
+Malad East,107
+Malad West,108
+Maneklal Estate,109
+Manjarli,110
+Manpada,111
+Marine Lines,112
+Matunga,113
+Mazagaon,114
+Mazgaon,115
+Mira Road,116
+Mira Road East,117
+Mulund,118
+Mulund East,119
+Mulund West,120
+Mumbai Central,121
+Mumbra,122
+Nahur East,123
+Naigaon East,124
+Nala Sopara,125
+Nalasopara East,126
+Nalasopara West,127
+Napeansea Road,128
+Naupada,129
+Navade,130
+Neral,131
+Nerul,132
+Nilje Gaon,133
+Owale,134
+Palava,135
+Palghar,136
+Pali Hill,137
+Palidevad,138
+Panch Pakhdi,139
+Panvel,140
+Parel,141
+Patlipada,142
+Peddar Road,143
+Pen,144
+Pestom Sagar Colony,145
+Police Colony,146
+Powai,147
+Prabhadevi,148
+Rabale,149
+Rambaug,150
+Rasayani,151
+Roadpali,152
+Sanpada,153
+Santacruz East,154
+Santacruz West,155
+Saphale,156
+Seawoods,157
+Sector 11 Koparkhairane,158
+Sector 12 Kharghar,159
+Sector 14 Vashi,160
+Sector 17 Ulwe,161
+Sector 18 Kharghar,162
+Sector 19 Kamothe,163
+Sector 19 Kharghar,164
+Sector 20 Kamothe,165
+Sector 20 Ulwe,166
+Sector 21 Kamothe,167
+Sector 21 Kharghar,168
+Sector 21 Nerul,169
+Sector 22 Kamothe,170
+Sector 23 Ulwe,171
+Sector 30 Kharghar,172
+Sector 6 Kamothe,173
+Sector 7 Kharghar,174
+Sector 8 New panvel,175
+Sector 9 Vashi,176
+Sector-12 Kamothe,177
+Sector-14 Koparkhairane,178
+Sector-3 Ulwe,179
+Sector-35D Kharghar,180
+Sector-4 New Panvel,181
+Sector-50 Seawoods,182
+Sector-9 Kamothe,183
+Sector-9 Ulwe,184
+Sewri,185
+Shahapur,186
+Shelu,187
+Shil Phata,188
+Sion,189
+Taloja,190
+Taloje,191
+Tardeo,192
+Thane East,193
+Thane West,194
+Tilak Nagar,195
+Titwala,196
+Ulhasnagar,197
+Ulwe,198
+Umroli,199
+Unnat Nagar,200
+Uran,201
+Usarghar Gaon,202
+Uttan,203
+Vangani,204
+Vasai,205
+Vasai West,206
+Vasai east,207
+Vashi,208
+Vasind,209
+Versova,210
+Vevoor,211
+Vichumbe,212
+Vikhroli,213
+Vikroli East,214
+Ville Parle East,215
+Ville Parle West,216
+Virar,217
+Virar East,218
+Virar West,219
+Wadala,220
+Warai,221
+Worli,222
+kandivali,223
+kasaradavali thane west,224
+mumbai,225
+sector,226
+vile parle west,227
